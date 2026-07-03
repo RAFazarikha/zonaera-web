@@ -33,12 +33,12 @@ export function WhyUs() {
           </span>
           <h2 className="font-serif text-4xl md:text-5xl lg:text-[48px] font-medium leading-[1.1] tracking-tight text-foreground">
             Crafting digital experiences with surgical precision.
-          </h2>z
+          </h2>
         </div>
 
         <div className="max-w-md">
           <p className="font-sans text-muted-foreground leading-relaxed text-sm md:text-base border-l border-primary/30 pl-6">
-            We don't just build websites. We architect high-performance engines designed to dominate your market vertical through superior design and code.
+            We don&apos;t just build websites. We architect high-performance engines designed to dominate your market vertical through superior design and code.
           </p>
         </div>
       </div>
